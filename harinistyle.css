@@ -1,0 +1,63 @@
+@media screen and (max-width:768px) {
+             
+    .navbar{
+         font-size: 50%;
+         height: 35vh;
+    }
+    .part2{
+        display: flex;
+        flex-direction: column;
+         
+    }
+    .leftimg{
+        height: 500%;
+        width: 445%;
+    }
+     .part2righttext{
+        margin-top: 80%;
+        margin-left: -20%;
+        font-size: 80%;
+        text-align: justify;
+        width: 200%;
+     }
+     .part3{
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+         align-items: center;
+         
+          
+     }
+     .part3card1{
+         font-size: 300%;
+         width: 80%;
+         box-shadow: -2px -2px 10px ;
+         
+     }
+     .part4headtext{
+        margin-left: -75%;
+        font-size: 200%;
+        width: 250%;
+     }
+     .part4imges{
+        display: flex;
+        flex-direction: column;
+        margin-left: 0%;
+        margin-top: 300%;
+         
+        width: 80vw;
+     }
+     .part5{
+        margin-top: 290%;
+          height: 25vh;
+     }
+     .subpart5{
+          justify-content: center;
+          font-size: 20%;
+          padding: 3% 5%;
+          margin-left: -15%;
+     }
+     .part5text{
+        width: 50%;
+     }
+}
